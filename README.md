@@ -78,7 +78,7 @@ There are **two sketches** in this repo:
 | Component | Notes |
 |---|---|
 | ESP32-C3 SuperMini |  |
-| AHT20+BMP280 sensor module | 4 pins: `SCL`, `GND`, `SDA`, `VDD` |
+| AHT20+BMP280 sensor module | 4 pins: `VDD`, `SDA`, `GND`, `SCL` |
 | microSD card module, 3.3 V type | 6 pins: `3V3`, `CS`, `MOSI`, `CLK`, `MISO`, `GND` |
 | 1.3" OLED, SH1106 driver, 128×64, I2C | Address `0x3C` (try `0x3D` if blank) |
 | Breadboard + jumper wires | 14 wires |
